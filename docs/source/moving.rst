@@ -87,7 +87,4 @@ Data Masking
                     # df.head() 
                     return df_name
           
-.. toctree::
-   :maxdepth: 2
-    
-    mask.ipynb
+
