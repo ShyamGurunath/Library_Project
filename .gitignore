@@ -1,0 +1,5 @@
+.DS_Store
+lib_pro/ 
+docs/build 
+docs/source/_templates/
+.vscode/
