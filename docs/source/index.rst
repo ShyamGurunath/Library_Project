@@ -44,16 +44,12 @@ Welcome to Correlation Analysis of Library-Exam's documentation!
 
    batch18.ipynb
 
+   conclusion
+
+   improve 
 
 
 
 
 
 
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`

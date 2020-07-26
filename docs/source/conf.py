@@ -17,9 +17,9 @@ import sphinx_rtd_theme
 
 # -- Project information -----------------------------------------------------
 
-project = 'Correlation Analysis of Library-Exam'
-copyright = '2020, Team 1'
-author = 'Team 1'
+project = 'Correlation Analysis of Library & Exam data'
+copyright = '2020, Team1'
+author = 'Team1'
 
 # The full version, including alpha/beta/rc tags
 release = '0.1'

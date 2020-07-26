@@ -5,7 +5,7 @@ First step
 Problem Statement
 ------------------
 
-  How the library usage improvises the Acamedic Performance?
+  How the library usage improvises the Academic Performance?
 
 Abstract
 ---------
@@ -73,7 +73,16 @@ Hypothesis
      
      .. note:: To be able to Analyse a data it's necessary to determine a hypothesis.
 
-     Our Hypotheis is to find out the  the Relationship between Library Usage and Academic Performance of Students
+     Our hypothesis:
+          Null Hypothesis:
+
+               **Library usage of students has positive correlation with the 
+               Academic Performance of students**.
+
+          Alternate Hypothesis:
+
+               **Library usage of students has negative correlation with the 
+               Academic Performance of students**.
 
 
 
