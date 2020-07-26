@@ -34,7 +34,7 @@ Literature Review
      .. warning:: So learning all these gave us the idea about how to work with data,
           but without Statisics and Data Science Concepts we can't move forward with
           Analysing..As our next step we learned core concepts of Statisics and Data Science
-          Concepts as suggested by Suresh sir.
+          Concepts as suggested by Mr.Suresh.
 
      We got a chance of meeting our project guide twice a week..
      On every Wednesday Session he shared us some important concepts and ideas to work around the project..
